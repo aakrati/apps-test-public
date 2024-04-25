@@ -1,2 +1,2 @@
 # apps-test-public
-Public repo with gradio apps
+Public repo with gradio and streamlit apps
